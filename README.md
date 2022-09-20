@@ -15,6 +15,6 @@ Narrativa:
 7. Os mecânicos possuem código, nome, endereço e especialidade
 8. Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-##Observação
+## Observação    
 
 A modelagem conceitual foi refinada de acordo com as entidades e atributos para melhor entendimento.
